@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    padding: 12px 0px;
+    color: white;
+    background-color: green;
+}
+
+h2{
+    margin: 12px 0px;
+}
+
+input {
+    margin-bottom: 12px;
+}
